@@ -1,2 +1,2 @@
 # jenkins-iac
-Repositório para armazenar código do Jenkins Server
+Build jenkins server with terraform on the AWS
